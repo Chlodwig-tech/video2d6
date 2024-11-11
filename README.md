@@ -1,4 +1,4 @@
-# video2d6
+# video2d6-cuda
 video to d6 video transformer based on image to d6 transformer: https://github.com/Chlodwig-tech/img2d6-cuda
 
 To compile:
